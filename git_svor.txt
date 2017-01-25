@@ -5,9 +5,15 @@
 	ls - Sjá allar skrár í directoryinu sem þú ert í.
 	pwd - Prentar út directory sem þú ert í.
 	mkdir - Býr til nýtt directory.
+
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone - Afritar skrá yfir í möppu en geymir hana líka á upprunalegum stað.
 	git log - Sýnir allt sem þú ert búin/n að uppfæra.
 	git status - Synir statusinn á skránni
 	git diff - Sýnir hverju hefur verið breytt í hverri uppfærslu.
 	git checkout - Switch branches or restore working tree files
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
