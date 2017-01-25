@@ -14,6 +14,11 @@
 	git checkout - Switch branches or restore working tree files
 
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
+	a) git diff - Sýnir hverju hefur verið breytt í hverri uppfærslu.
+	b) git diff --staged - Þá ertu að skoða diffið á staged.
+	c) git diff commit1 commit2 - Þetta notar maður til að pulla.
+
+4. Hvað er útgáfustýring (e.version control)?
+	Útgáfustýring heldur utan um allar breytingar svo þú getur breytt í eldri útgáfur ef þú vilt.
+5. Hverjir eru helstu kostir við að nota GIT?
+	Það er rosa þægilegt og auðvelt að nota.
