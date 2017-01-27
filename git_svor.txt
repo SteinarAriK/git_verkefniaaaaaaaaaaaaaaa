@@ -25,3 +25,6 @@
 6. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	Meira commit, meira gott :).
 7. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	direktorían sem þú ert að vinna í er "working directory", "staging area" er þar sem þú geymir skránar áður en þær eru notaðar. og "repository" er data structure sem geymir öll gögn sem þú ert með.
+8. Hvenær er sniðugt að nota greinar (branches)? 
+	Þegar þu vilt prufa að breyta einhverju sem þú ert ekki alveg viss um.
