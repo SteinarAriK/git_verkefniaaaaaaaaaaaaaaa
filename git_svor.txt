@@ -28,3 +28,5 @@
 	direktorían sem þú ert að vinna í er "working directory", "staging area" er þar sem þú geymir skránar áður en þær eru notaðar. og "repository" er data structure sem geymir öll gögn sem þú ert með.
 8. Hvenær er sniðugt að nota greinar (branches)? 
 	Þegar þu vilt prufa að breyta einhverju sem þú ert ekki alveg viss um.
+9. Hver fann upp GIT?
+	Linus Torvalds.
