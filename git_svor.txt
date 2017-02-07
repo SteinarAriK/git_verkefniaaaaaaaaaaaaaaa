@@ -31,4 +31,4 @@
 9. Hver fann upp GIT?
 	Linus Torvalds.
 10. Hvar er GIT helst notað?
-	GIT er notað allstaðar þar sem fólk er að vinna saman í verkefni.
+	GIT er notað allstaðar þar sem fólk er að vinna saman í verkefni..
